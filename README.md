@@ -1,2 +1,1 @@
-# tec
-Trabajos relacionados a programación
+# Colección de trabajos
